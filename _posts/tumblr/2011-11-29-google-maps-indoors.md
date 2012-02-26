@@ -3,8 +3,7 @@ layout: post
 title: Google Maps indoors
 tags: 
 ---
-[Google LatLong: A new frontier for Google Maps: mapping the indoors](http
-://google-latlong.blogspot.com/2011/11/new-frontier-for-google-maps-
+[Google LatLong: A new frontier for Google Maps: mapping the indoors](http://google-latlong.blogspot.com/2011/11/new-frontier-for-google-maps-
 mapping.html)
 
 > And now, Google Maps for Android enables you to figure out where you are and

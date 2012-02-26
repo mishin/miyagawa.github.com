@@ -13,8 +13,7 @@ written in a few months.
 
 HUPのリスタート処理がlinux環境で app.psgi 以外のファイルパスを使っていた場合にうまく動いていなかったのを直したのと同時に、Server::
 Starter対応の部分で、デフォルトでTERMを受け取ったらgraceful
-shutdownしないといけないのが、そこが実装されてなかったのに気づいた。というわけで、[SIGQUITでgraceful shutdown](https
-://github.com/miyagawa/Starman/commit/109ed98eeac84224db9b09777cff66cb68f3d007
+shutdownしないといけないのが、そこが実装されてなかったのに気づいた。というわけで、[SIGQUITでgraceful shutdown](https://github.com/miyagawa/Starman/commit/109ed98eeac84224db9b09777cff66cb68f3d007
 ) するようにパッチを書いたので、`start_server --signal-on-hup=QUIT -- starman --preload-app
 ...` で graceful restart 可能になった。
 
