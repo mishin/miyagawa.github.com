@@ -18,13 +18,13 @@ Before doing this, don't forget to apply the [firmware Version 1.1
 update](http://weblog.bulknews.net/2012/01/25/lumix-dmc-gx1-firmware-update).
 It fixes the AWB performance and it's really important.
 
-  * Photo Style: Custom (STD) / Contrast +2 / Sharpness +1 / 彩度 -2 / NR -1
-  * Aspect ratio: 3:2
-  * Resolution: L 14M
-  * Quality: RAW + Super Fine
-  * Intelligent Resolution 超解像: Weak 弱
-  * iD Range Control: Weak 弱
-  * ISO high limit: 800 (might not appropriate if you use the zoom lens)
+* Photo Style: Custom (STD) / Contrast +2 / Sharpness +1 / 彩度 -2 / NR -1
+* Aspect ratio: 3:2
+* Resolution: L 14M
+* Quality: RAW + Super Fine
+* Intelligent Resolution 超解像: Weak 弱
+* iD Range Control: Weak 弱
+* ISO high limit: 800 (might not appropriate if you use the zoom lens)
 
 This setting makes a personally satisfying JPEG rendering, and the auto white
 balance seems more appropriate than Lightroom in many cases with the firmware
